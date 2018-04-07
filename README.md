@@ -1,2 +1,3 @@
-# Lab Codes
-Programs from all labs, semester 6 onwards.
+# Lab Exercises
+
+Programs for (almost) all lab exercises, semester 6 onwards.
